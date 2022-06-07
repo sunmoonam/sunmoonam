@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @sunmoonam
-- 👀 I’m interested in Parallel computer architecture, neural networks, user interfaces, 3D sensors, light field 3D displays, and Processors for deep learning.
+- 👋 Hi, I’m Akira Morishita.
+- 👀 I’m interested in parallel computer architecture, neural networks, user interfaces, 3D sensors, light field 3D displays, and processors for deep learning.
 -
 <!---
 sunmoonam/sunmoonam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
